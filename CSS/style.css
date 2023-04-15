@@ -73,7 +73,7 @@ header {
     background: #E8E8EA;
     color: white;
     list-style: none;
-    padding-top: 5vw;
+    padding-top: 3.5vw;
     padding-left: 6vw;
     border-left: 5px solid black;
   }
@@ -101,7 +101,7 @@ header {
     height: 5vw;
     margin-right: 1vw;
     margin-left: 1vw;
-    margin-top: 35%;
+    margin-top: 8%;
 }
 
 /* main text and element styles */
