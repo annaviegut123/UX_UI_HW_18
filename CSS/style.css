@@ -266,20 +266,31 @@ footer {
 }
 
 /* about page specific styles */
-.about-hero {
+.about-header {
     background-color: #E8E8EA;
     height: 15%;
 }
 
-.about-heading {
+.about-header-heading {
     color: black;
     padding-top: 2%;
     padding-left: 10%;
 }
 
-.about-subheading {
+.about-header-subheading {
     padding-left: 10%;
     padding-bottom: 3%;
+}
+
+.about-hero {
+    background-color: black;
+    height: 40%;
+}
+
+.about-hero-heading {
+    color: white;
+    text-decoration: none;
+    padding-left: 10%;
 }
 
 /* media queries */
