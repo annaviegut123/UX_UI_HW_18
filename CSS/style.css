@@ -309,6 +309,14 @@ footer {
     text-decoration: none;
 }
 
+.about-me-image-1 {
+    display: inline-block;
+    width: 30%;
+    height: 30%;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
 /* media queries */
 /* extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
