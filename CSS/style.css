@@ -14,7 +14,21 @@ html {
 
 /* header hero section styles */
 
-header {
+.hero {
+    display: flex;
+    flex-direction: column;
+    background-image: url(../images/main-background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    align-self: center;
+    background-attachment: fixed;
+    align-items: right;
+    justify-content: center;
+}
+
+.hero-about {
     display: flex;
     flex-direction: column;
     background-image: url(../images/main-background.png);
