@@ -293,6 +293,11 @@ footer {
     padding-left: 10%;
 }
 
+.about-hero-paragraph {
+    color: white;
+    padding-left: 10%;
+}
+
 /* media queries */
 /* extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
