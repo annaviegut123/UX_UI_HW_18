@@ -28,7 +28,7 @@ html {
     justify-content: center;
 }
 
-.hero-about {
+.about-hero {
     display: flex;
     flex-direction: column;
     background-image: url(../images/main-background.png);
