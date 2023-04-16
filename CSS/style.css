@@ -28,20 +28,6 @@ html {
     justify-content: center;
 }
 
-.about-hero {
-    display: flex;
-    flex-direction: column;
-    background-image: url(../images/main-background.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100vh;
-    width: 100vw;
-    align-self: center;
-    background-attachment: fixed;
-    align-items: right;
-    justify-content: center;
-}
-
 .hero-text {
     margin-left: 50%;
     margin-right: 10%;
@@ -277,6 +263,23 @@ footer {
     height: 5vw;
     margin-right: 1vw;
     margin-left: 1vw;
+}
+
+/* about page specific styles */
+.about-hero {
+    background-color: #E8E8EA;
+    height: 15%;
+}
+
+.about-heading {
+    color: black;
+    padding-top: 2%;
+    padding-left: 10%;
+}
+
+.about-subheading {
+    padding-left: 10%;
+    padding-bottom: 3%;
 }
 
 /* media queries */
