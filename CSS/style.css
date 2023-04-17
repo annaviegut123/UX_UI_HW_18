@@ -291,7 +291,7 @@ footer {
     color: white;
     text-decoration: none;
     display: inline-block;
-    padding-top: 5%;
+    padding-top: 10%;
 }
 
 .about-hero-paragraph {
@@ -306,7 +306,7 @@ footer {
 }
 
 .about-me-image-1 {
-    width: 60%;
+    width: 70%;
     height: auto;
 }
 
