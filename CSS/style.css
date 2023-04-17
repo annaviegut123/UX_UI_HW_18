@@ -316,6 +316,26 @@ footer {
     height: auto;
 }
 
+.about-me-image-2 {
+    width: 20%;
+    height: auto;
+}
+
+.about-me-image-3 {
+    width: 20%;
+    height: auto;
+}
+
+.about-me-image-4 {
+    width: 20%;
+    height: auto;
+}
+
+.about-me-image-5 {
+    width: 20%;
+    height: auto;
+}
+
 .column {
     flex: 50%;
     padding-left: 10%;
