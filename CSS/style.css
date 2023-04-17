@@ -141,7 +141,13 @@ a {
 }
 
 ul {
+    font-family: 'Roboto', sans-serif;
     list-style-type: none
+}
+
+li {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2vw;
 }
 
 /* case studies section styles */
@@ -318,9 +324,27 @@ footer {
 }
 
 .skills-tools {
-    display: flex;
+    display: block;
     background-color: #E8E8EA;
     height: auto;
+}
+
+.skills {
+    padding-left: 10%;
+    padding-top: 5%;
+}
+
+.tools {
+    padding-left: 60%;
+    padding-bottom: 5%;
+}
+
+.skills-heading {
+    padding-bottom: 4%;
+}
+
+.tools-heading {
+    padding-bottom: 4%;
 }
 
 /* media queries */
