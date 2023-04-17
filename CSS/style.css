@@ -317,6 +317,12 @@ footer {
     padding-bottom: 5%;
 }
 
+.skills-tools {
+    display: flex;
+    background-color: #E8E8EA;
+    height: auto;
+}
+
 /* media queries */
 /* extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
