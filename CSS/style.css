@@ -507,7 +507,7 @@ footer {
     margin-top: 2%;
 }
 
-.survey-data-images-wrapper {
+.addventure-images-wrapper {
     display: flex;
     margin-left: 10%;
     margin-top: 2%;
@@ -520,6 +520,16 @@ footer {
 
 .addventure-survey-data-image-2 {
     width: 40%;
+    height: auto;
+}
+
+.addventure-affinity-diagram-image-1 {
+    width: auto;
+    height: 50%;
+}
+
+.addventure-affinity-diagram-image-2 {
+    width: 30%;
     height: auto;
 }
 
