@@ -289,9 +289,23 @@ footer {
     padding-bottom: 3%;
 }
 
+.column {
+    flex: 50%;
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
 .about-hero {
     display: flex;
     background-color: black;
+}
+
+.about-green-anna {
+    color: #79814D;
+    display: inline-block;
+    padding-right: 1vw;
+    text-decoration: none;
 }
 
 .about-hero-heading {
@@ -303,13 +317,6 @@ footer {
 
 .about-hero-paragraph {
     color: white;
-}
-
-.about-green-anna {
-    color: #79814D;
-    display: inline-block;
-    padding-right: 1vw;
-    text-decoration: none;
 }
 
 .about-me-image-1 {
@@ -358,16 +365,13 @@ footer {
     margin-top: -10%;
 }
 
-.column {
-    flex: 50%;
-    padding-left: 10%;
-    padding-top: 5%;
-    padding-bottom: 5%;
-}
-
 .skills-tools {
     background-color: #E8E8EA;
     height: 100%;
+}
+
+.skills-heading {
+    padding-bottom: 15%;
 }
 
 .skills {
@@ -376,22 +380,33 @@ footer {
     display: inline-block;
 }
 
-.tools {
-    padding-left: 60%;
-    padding-bottom: 17%;
-}
-
-.skills-heading {
-    padding-bottom: 15%;
-}
-
 .tools-heading {
     padding-bottom: 4%;
     margin-top: -70%;
 }
 
+.tools {
+    padding-left: 60%;
+    padding-bottom: 17%;
+}
 
 /* addventure page specific styles */
+
+.addventure-header {
+    background-color: #E8E8EA;
+    height: 15%;
+}
+
+.addventure-header-heading {
+    color: black;
+    padding-top: 2%;
+    padding-left: 10%;
+}
+
+.addventure-header-subheading {
+    padding-left: 10%;
+    padding-bottom: 3%;
+}
 
 .addventure-hero {
     display: flex;
