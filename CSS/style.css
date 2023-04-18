@@ -570,6 +570,20 @@ footer {
 .addventure-feature-prioritization-2 {
     width: 40%;
     height: auto;
+    margin-right: 10%;
+}
+
+.addventure-value-prop-text {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+}
+
+.addventure-storyboard-image {
+    width: 70%;
+    height: auto;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 /* media queries */
