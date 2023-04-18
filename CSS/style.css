@@ -398,7 +398,6 @@ footer {
 .skills-tools {
     background-color: #E8E8EA;
     height: 100%;
-
 }
 
 .skills {
@@ -421,6 +420,17 @@ footer {
     margin-top: -70%;
 }
 
+/* addventure case study specific styles */
+.addventure-overview {
+    background-color: black;
+    height: 500px;
+}
+
+.addventure-main {
+    background-color: #E8E8EA;
+    height: 800px;
+}
+
 /* media queries */
 /* extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
@@ -428,7 +438,7 @@ footer {
 /* header hero section styles */
 
 header {
-    height: 100%;
+    height: auto;
     width: 100%;
 }
 
