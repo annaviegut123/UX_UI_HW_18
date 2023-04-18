@@ -473,7 +473,8 @@ footer {
 
 .addventure-main {
     background-color: #E8E8EA;
-    height: 800px;
+    height: auto;
+    padding-bottom: 5%;
 }
 
 .addventure-main-heading-text {
@@ -499,6 +500,11 @@ footer {
 
 .addventure-proto-persona-text {
     display: inline-block;
+}
+
+.addventure-user-interviews-text {
+    margin-left: 10%;
+    margin-top: 2%;
 }
 
 /* media queries */
