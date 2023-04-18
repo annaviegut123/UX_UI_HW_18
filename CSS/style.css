@@ -490,6 +490,17 @@ footer {
     padding-top: 2%;
 }
 
+.addventure-proto-persona-image {
+    width: 30%;
+    height: auto;
+    margin-left: 3%;
+    display: inline-block;
+}
+
+.addventure-proto-persona-text {
+    display: inline-block;
+}
+
 /* media queries */
 /* extra small devices (phones, 600px and down) */
 
