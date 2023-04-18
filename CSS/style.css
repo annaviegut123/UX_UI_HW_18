@@ -610,6 +610,67 @@ footer {
     margin-top: 2%;
 }
 
+.addventure-user-testing-results-1 {
+    width: 40%;
+    height: auto;
+}
+
+.addventure-user-testing-results-2 {
+    width: 40%;
+    height: auto;
+}
+
+.addventure-user-testing-results-3 {
+    width: 40%;
+    height: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+}
+
+.addventure-iteration-image-1 {
+    width: 20%;
+    height: auto;
+    margin-right: 3%;
+}
+
+.addventure-iteration-image-2 {
+    width: 20%;
+    height: auto;
+    margin-right: 3%;
+}
+
+.addventure-iteration-image-3 {
+    width: 20%;
+    height: auto;
+    margin-right: 3%;
+}
+
+.addventure-high-fidelity-wireframes-image {
+    width: 70%;
+    height: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.addventure-summary-text {
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-right: 5%;
+}
+
+.addventure-log-out-image {
+    width: 40%;
+    height: auto;
+    margin-right: 15%;
+}
+
+.addventure-summary-columns {
+    display: flex;
+}
+
 /* media queries */
 /* extra small devices (phones, 600px and down) */
 
