@@ -419,7 +419,7 @@ footer {
 .addventure-image {
     z-index: 2;
     position: absolute;
-    margin-top: 5%;
+    margin-top: 4%;
     margin-left: 35%;
     height: auto;
     width: 30%;
@@ -472,7 +472,7 @@ footer {
 }
 
 .addventure-main {
-    background-color: #E8E8EA;
+    background-color: white;
     height: auto;
     padding-bottom: 5%;
 }
@@ -505,6 +505,22 @@ footer {
 .addventure-user-interviews-text {
     margin-left: 10%;
     margin-top: 2%;
+}
+
+.survey-data-images-wrapper {
+    display: flex;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.addventure-survey-data-image-1 {
+    width: 40%;
+    height: auto;
+}
+
+.addventure-survey-data-image-2 {
+    width: 40%;
+    height: auto;
 }
 
 /* media queries */
