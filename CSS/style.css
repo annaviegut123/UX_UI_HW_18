@@ -552,6 +552,16 @@ footer {
     margin-right: 10%;
 }
 
+.addventure-ilike-image-1 {
+    width: 40%;
+    height: auto;
+}
+
+.addventure-ilike-image-2 {
+    width: 40%;
+    height: auto;
+}
+
 /* media queries */
 /* extra small devices (phones, 600px and down) */
 
