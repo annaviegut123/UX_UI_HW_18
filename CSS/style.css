@@ -272,6 +272,7 @@ footer {
 }
 
 /* about page specific styles */
+
 .about-header {
     background-color: #E8E8EA;
     height: 15%;
@@ -364,6 +365,8 @@ footer {
     padding-bottom: 5%;
 }
 
+/* addventure page specific styles */
+
 .addventure-hero {
     display: flex;
 }
@@ -421,6 +424,7 @@ footer {
 }
 
 /* addventure case study specific styles */
+
 .addventure-overview {
     background-color: black;
     height: 500px;
@@ -433,6 +437,7 @@ footer {
 
 /* media queries */
 /* extra small devices (phones, 600px and down) */
+
 @media only screen and (max-width: 600px) {
 
 /* header hero section styles */
