@@ -521,16 +521,35 @@ footer {
 .addventure-survey-data-image-2 {
     width: 40%;
     height: auto;
+    margin-right: 10%;
 }
 
 .addventure-affinity-diagram-image-1 {
-    width: auto;
-    height: 50%;
+    width: 50%;
+    height: auto;
 }
 
 .addventure-affinity-diagram-image-2 {
     width: 30%;
     height: auto;
+    margin-right: 10%;
+}
+
+.addventure-empathy-map-image-1 {
+    width: 40%;
+    height: auto;
+}
+
+.addventure-empathy-map-image-2 {
+    width: 40%;
+    height: auto;
+}
+
+.addventure-user-persona-image {
+    width: 70%;
+    height: auto;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 /* media queries */
