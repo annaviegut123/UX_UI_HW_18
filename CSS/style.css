@@ -449,6 +449,14 @@ footer {
     height: 800px;
 }
 
+.overview-text {
+    color: white;
+    font-family: 'Crimson Text', serif;
+    font-size: 3.5vw;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+
 /* media queries */
 /* extra small devices (phones, 600px and down) */
 
