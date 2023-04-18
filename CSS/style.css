@@ -12,7 +12,7 @@ html {
     font-size: 16px;
 }
 
-/* header hero section styles */
+/*  home page header hero section styles */
 
 .hero {
     display: flex;
@@ -150,7 +150,7 @@ li {
     font-size: 1.2vw;
 }
 
-/* case studies section styles */
+/* home page case studies section styles */
 
 .case-studies {
     display: block;
@@ -365,6 +365,32 @@ footer {
     padding-bottom: 5%;
 }
 
+.skills-tools {
+    background-color: #E8E8EA;
+    height: 100%;
+}
+
+.skills {
+    padding-left: 10%;
+    padding-top: 5%;
+    display: inline-block;
+}
+
+.tools {
+    padding-left: 60%;
+    padding-bottom: 17%;
+}
+
+.skills-heading {
+    padding-bottom: 15%;
+}
+
+.tools-heading {
+    padding-bottom: 4%;
+    margin-top: -70%;
+}
+
+
 /* addventure page specific styles */
 
 .addventure-hero {
@@ -397,33 +423,6 @@ footer {
     position: relative;
     z-index: 1;
 }
-
-.skills-tools {
-    background-color: #E8E8EA;
-    height: 100%;
-}
-
-.skills {
-    padding-left: 10%;
-    padding-top: 5%;
-    display: inline-block;
-}
-
-.tools {
-    padding-left: 60%;
-    padding-bottom: 17%;
-}
-
-.skills-heading {
-    padding-bottom: 15%;
-}
-
-.tools-heading {
-    padding-bottom: 4%;
-    margin-top: -70%;
-}
-
-/* addventure case study specific styles */
 
 .addventure-overview {
     background-color: black;
