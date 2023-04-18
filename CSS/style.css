@@ -365,7 +365,8 @@ footer {
 
 .skills-tools {
     background-color: #E8E8EA;
-    height: auto;
+    height: 100%;
+
 }
 
 .skills {
@@ -376,15 +377,16 @@ footer {
 
 .tools {
     padding-left: 60%;
-    padding-bottom: 5%;
+    padding-bottom: 16%;
 }
 
 .skills-heading {
-    padding-bottom: 10%;
+    padding-bottom: 15%;
 }
 
 .tools-heading {
     padding-bottom: 4%;
+    margin-top: -70%;
 }
 
 /* media queries */
