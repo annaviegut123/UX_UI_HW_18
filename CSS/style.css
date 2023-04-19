@@ -15,22 +15,18 @@ html {
 /*  home page header hero section styles */
 
 .hero {
-    display: flex;
-    flex-direction: column;
+    padding-top: 15%;
+    flex-direction: row;
     background-image: url(../images/main-background.png);
-    background-size: cover;
+    background-size: 100% auto;
     background-repeat: no-repeat;
-    height: 100vh;
-    width: 100vw;
-    align-self: center;
     background-attachment: fixed;
-    align-items: right;
-    justify-content: center;
 }
 
 .hero-text {
     margin-left: 50%;
     margin-right: 10%;
+    padding-bottom: 22%;
     color: black;
 }
 
@@ -196,7 +192,7 @@ li {
 
 .case-study-paragraph {
     color: white;
-    margin-top: 1.25rem;
+    margin-top: 1vh;
 }
 
 .case-study-image {
@@ -205,6 +201,7 @@ li {
     height: 30%;
     text-align: center;
     margin-right: 4vw;
+    margin-top: 1vh;
 }
 
 .case-study-image-two {
@@ -678,9 +675,8 @@ footer {
 
 /* header hero section styles */
 
-header {
-    height: auto;
-    width: 100%;
+.hero {
+
 }
 
 }
